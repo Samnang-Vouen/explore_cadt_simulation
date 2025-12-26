@@ -1,3 +1,46 @@
+# Unity generated folders
+Library/
+Temp/
+Logs/
+UserSettings/
+Build/
+Builds/
+obj/
+.vs/
+.vscode/
+.plastic/
+
+# Unused/third-party asset folders (if not used in your scenes/scripts)
+Assets/Brick Project Studio/
+Assets/LoafbrrAssets/
+Assets/Nicrom/
+Assets/ModularHousePack1/
+Assets/SciFi_Modular_Kit_Demo/
+Assets/ADG_Textures/
+Assets/FencesPack/
+
+# IDE and OS files
+*.csproj
+*.sln
+*.user
+*.pidb
+*.unityproj
+*.tmproj
+*.suo
+*.tmp
+*.bak
+*.swp
+*.lock
+*.log
+*.DS_Store
+*.apk
+*.aab
+*.keystore
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
 # Unity generated files
 [Ll]ibrary/
 [Tt]emp/
